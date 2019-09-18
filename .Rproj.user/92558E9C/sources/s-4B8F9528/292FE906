@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568770027993.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "353157660",
+    "id" : "292FE906",
+    "lastKnownWriteTime" : 1568816917,
+    "last_content_update" : 1568816917335,
+    "path" : "~/Harddisk/R Studio/Practice/First_Practice/Untitled.R",
+    "project_path" : "Untitled.R",
+    "properties" : {
+        "cursorPosition" : "0,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
